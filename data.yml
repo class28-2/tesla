@@ -1,0 +1,15 @@
+hosts: database
+var:
+        password: DevOps@2020
+        username: mylandmark
+       Tasks:
+       - name: create name
+         user: "{{username}}"
+         state: present
+       - name: install package
+         package: ['wget', 'unzip']
+         state: latest
+        - name: 
+          debug:
+            msg: "{{password}}"
+
