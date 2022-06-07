@@ -7,3 +7,4 @@ ope
 chima
 chgirl
 chimobi
+chi 2
