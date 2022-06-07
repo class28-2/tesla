@@ -3,7 +3,7 @@ simon
 peter
 paul
 chi
-ope
 chima
 chgirl
 chimobi
+Kenedy
