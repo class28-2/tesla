@@ -16,4 +16,8 @@ deploy java application
 Deploy python apps
 deploy in the dev environment
 >>>>>>> dev
+<<<<<<< HEAD
 deployment5 master
+=======
+deployment4
+>>>>>>> dev
