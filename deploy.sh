@@ -1,4 +1,3 @@
-echo "The boy is mine"
-echo "Jason's lyric"
-deploy in the dev env
-deploymen4
+deploy java application
+Deploy python apps
+deploy in the dev environment
