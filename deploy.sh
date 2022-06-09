@@ -21,3 +21,9 @@ deployment5 master
 =======
 deployment4
 >>>>>>> dev
+<<<<<<< HEAD
+=======
+deploy to staging env
+echo good job.
+Tested and accepted
+>>>>>>> afcf7ed (tested and approved by the client QA team)
