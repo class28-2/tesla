@@ -21,4 +21,6 @@ deployment5 master
 =======
 deployment4
 >>>>>>> dev
-deploy to staging
+deploy to staging env
+echo good job.
+Tested and accepted
