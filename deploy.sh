@@ -23,9 +23,15 @@ deployment4
 >>>>>>> dev
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 deploy to staging env
 echo good job.
 Tested and accepted
 >>>>>>> afcf7ed (tested and approved by the client QA team)
 =======
+=======
+deploy to staging env
+echo good job.
+Tested and accepted
+>>>>>>> stage
