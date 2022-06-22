@@ -34,4 +34,8 @@ Tested and accepted
 deploy to staging env
 echo good job.
 Tested and accepted
+<<<<<<< HEAD
 >>>>>>> stage
+=======
+echo commit 1
+>>>>>>> 10004e2 (two filess updated)
