@@ -24,3 +24,4 @@ deployment4
 deploy to staging env
 echo good job.
 Tested and accepted
+echo commit 1
