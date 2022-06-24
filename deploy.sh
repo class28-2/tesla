@@ -28,6 +28,7 @@ deployment4
 deploy to staging env
 echo good job.
 Tested and accepted
+<<<<<<< HEAD
 >>>>>>> afcf7ed (tested and approved by the client QA team)
 =======
 =======
@@ -39,3 +40,6 @@ Tested and accepted
 =======
 echo commit 1
 >>>>>>> 10004e2 (two filess updated)
+=======
+echo commit 1
+>>>>>>> stage
