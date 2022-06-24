@@ -5,3 +5,4 @@ echo pwd
 
 #changes to the file
 echo"testing git stash"
+echo pwd
