@@ -7,6 +7,7 @@ newrelic
 appDynamics
 Dynatrace
 <<<<<<< HEAD
+<<<<<<< HEAD
 (entered for revision)
 >>>>>>> 12b71d1 (Dynatrace added earlier for APM)
 =======
@@ -18,3 +19,7 @@ Dynatrace
 (entered for revisioni)
 echo commit 2
 >>>>>>> 10004e2 (two filess updated)
+=======
+(entered for revisioni)
+echo commit 2
+>>>>>>> stage

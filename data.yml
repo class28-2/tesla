@@ -2,6 +2,7 @@ hosts: database
 var:
         password: DevOps@2020
         username: mylandmark
+        hostname: mongo
        Tasks:
        - name: create name
          user: "{{username}}"
